@@ -1,0 +1,13 @@
+{
+  "variables": {
+    "APPLICATION_NAME": {
+      "value": "ws-pop-onsitepayment"
+    },
+    "CONFIG_LOCATION": {
+      "value": "/data"
+    },
+    "PASSWORD": {
+      "value": "123456789987654321"
+    }
+  }
+}
